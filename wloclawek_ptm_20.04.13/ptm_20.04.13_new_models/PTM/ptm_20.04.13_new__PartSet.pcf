@@ -1,0 +1,77 @@
+##########################################################
+# PTM Simulation file written by SMS 13.2.18 (64-bit)
+# SMS Build Date: Aug 16 2023
+# Date saved: 10/25/24
+# Time saved: 17:42:00
+##########################################################
+#
+# Time ---------------------------------------------------
+#
+:START_RUN                     1950  1 16  0  0  0
+:STOP_RUN                      1950  1 31  0  0  0
+:TIME_STEP                     60.000000
+:GRID_UPDATE                   30
+:FLOW_UPDATE                   1
+#
+# Files --------------------------------------------------
+#
+:FLOW_FILE_XMDF                flow.h5
+:FLOW_FORMAT                   XMDF
+:XMDF_VEL_PATH                 Datasets/Overland Velocity
+:XMDF_WSE_PATH                 Datasets/wse
+:START_FLOW                    1950  1 16  0  0  0
+:BC_FILE                       bc.h5
+:MESH_FILE                     ..\..\mesh.14
+:MESH_FORMAT                   ADCIRC
+:NEIGHBOR_FILE                 neighbor.neighbors
+:SEDIMENT_FORMAT               ADCIRC
+:SEDIMENT_FILE                 native.sediments
+:SOURCE_FILE                   sedi.source
+:OUTPUT_PREFIX                 Output
+#
+# Computation Methods ------------------------------------
+#
+:ADVECTION_METHOD              3D
+:CENTROID_METHOD               ROUSE
+:EULERIAN_METHOD               PTM
+:VELOCITY_METHOD               2D (LOGARITHMIC)
+:EULERIAN_SED_TRANS            SOULSBY-VAN_RIJN
+:NUMERICAL_SCHEME              2
+#
+# Computation Parameters ---------------------------------
+#
+:BED_POROSITY                  0.4
+:RHOS                          2650
+:MIN_DEPTH                     0.01
+:TEMPERATURE                   15
+:KET                           0.25
+:SALINITY                      34
+:KEW                           5
+:KEV                           0.00859
+:ETMIN                         0
+:EVMIN                         0
+:CURRENTS
+:NO_WAVE_MASS_TRANSPORT
+#
+# Particle Output ----------------------------------------
+#
+:OUTPUT_INC                    60
+:ELEVATION_OUTPUT
+:GRAIN_SIZE_OUTPUT
+:ID_OUTPUT
+:MOBILITY_OUTPUT
+:STATE_OUTPUT
+#
+# Mapping Output -----------------------------------------
+#
+:MAPPING_INC                   1000
+#
+# File Output --------------------------------------------
+#
+#
+# SMS Keywords -------------------------------------------
+#
+:EMRL_GUID_SOURCE_COV          9f84a4ea-db79-4330-84c5-897d68381f35
+:EMRL_PARTICLE_SET_GUID        05b0c5b4-9389-4dcd-aa7c-dce2214359fe
+:EMRL_SHOW_DEFAULT_KEYWORDS    1
+:END_DATA

@@ -1,0 +1,204 @@
+
+ This model is licensed. 
+ 
+ 
+PTM Version 2.3 Build 005 (13/Nov/2020) 
+ 
+Run start: 2023/04/27  10:04:03 
+ 
+Reading program control file... 
+Reading ADCIRC mesh data... 
+Reading boundary data... 
+Computing areas of elements... 
+Reading data from neighbor file... 
+Reading closed boundary element list... 
+Reading open boundary element list... 
+Reading element boundary lists... 
+Reading sediment data file... 
+Opening hydrodynamic data file... 
+Reading sediment source data... 
+Synthesizing particles from point source   1 [  1] 
+Synthesizing particles from point source   1 [  2] 
+Synthesizing particles from point source   2 [  1] 
+Synthesizing particles from point source   2 [  2] 
+Synthesizing particles from point source   3 [  1] 
+Synthesizing particles from point source   3 [  2] 
+Estimated number of particles:   126800 
+Estimated number of time steps:    1729 
+Initializing output files... 
+Starting simulation... 
+Advancing to start time... 
+ 
+ 
+ 
+STEP:      100 
+DATE: 1950/01/01 
+TIME: 08:15:00.0 
+ 
+BORN=  106932    ALIVE=  104940    DEAD=    2004    ACTIVE=   92619    DORMANT=   12321 
+ 
+ 
+ 
+ 
+ 
+STEP:      200 
+DATE: 1950/01/01 
+TIME: 16:35:00.0 
+ 
+BORN=  126800    ALIVE=  124241    DEAD=    2560    ACTIVE=  105817    DORMANT=   18424 
+ 
+ 
+ 
+ 
+ 
+STEP:      300 
+DATE: 1950/01/02 
+TIME: 00:55:00.0 
+ 
+BORN=  126800    ALIVE=  124234    DEAD=    2569    ACTIVE=  104038    DORMANT=   20196 
+ 
+ 
+ 
+ 
+ 
+STEP:      400 
+DATE: 1950/01/02 
+TIME: 09:15:00.0 
+ 
+BORN=  126800    ALIVE=   67929    DEAD=   59648    ACTIVE=   43418    DORMANT=   24511 
+ 
+ 
+ 
+ 
+ 
+STEP:      500 
+DATE: 1950/01/02 
+TIME: 17:35:00.0 
+ 
+BORN=  126800    ALIVE=   29206    DEAD=   97675    ACTIVE=    2764    DORMANT=   26442 
+ 
+ 
+ 
+ 
+ 
+STEP:      600 
+DATE: 1950/01/03 
+TIME: 01:55:00.0 
+ 
+BORN=  126800    ALIVE=   27253    DEAD=   99549    ACTIVE=     305    DORMANT=   26948 
+ 
+ 
+ 
+ 
+ 
+STEP:      700 
+DATE: 1950/01/03 
+TIME: 10:15:00.0 
+ 
+BORN=  126800    ALIVE=   27178    DEAD=   99622    ACTIVE=     164    DORMANT=   27014 
+ 
+ 
+ 
+ 
+ 
+STEP:      800 
+DATE: 1950/01/03 
+TIME: 18:35:00.0 
+ 
+BORN=  126800    ALIVE=   27146    DEAD=   99654    ACTIVE=     135    DORMANT=   27011 
+ 
+ 
+ 
+ 
+ 
+STEP:      900 
+DATE: 1950/01/04 
+TIME: 02:55:00.0 
+ 
+BORN=  126800    ALIVE=   27123    DEAD=   99677    ACTIVE=     112    DORMANT=   27011 
+ 
+ 
+ 
+ 
+ 
+STEP:     1000 
+DATE: 1950/01/04 
+TIME: 11:15:00.0 
+ 
+BORN=  126800    ALIVE=   27097    DEAD=   99703    ACTIVE=     100    DORMANT=   26997 
+ 
+ 
+ 
+ 
+ 
+STEP:     1100 
+DATE: 1950/01/04 
+TIME: 19:35:00.0 
+ 
+BORN=  126800    ALIVE=   27083    DEAD=   99717    ACTIVE=      99    DORMANT=   26984 
+ 
+ 
+ 
+ 
+ 
+STEP:     1200 
+DATE: 1950/01/05 
+TIME: 03:55:00.0 
+ 
+BORN=  126800    ALIVE=   27072    DEAD=   99729    ACTIVE=     114    DORMANT=   26958 
+ 
+ 
+ 
+ 
+ 
+STEP:     1300 
+DATE: 1950/01/05 
+TIME: 12:15:00.0 
+ 
+BORN=  126800    ALIVE=   27056    DEAD=   99744    ACTIVE=     121    DORMANT=   26935 
+ 
+ 
+ 
+ 
+ 
+STEP:     1400 
+DATE: 1950/01/05 
+TIME: 20:35:00.0 
+ 
+BORN=  126800    ALIVE=   27044    DEAD=   99757    ACTIVE=     116    DORMANT=   26928 
+ 
+ 
+ 
+ 
+ 
+STEP:     1500 
+DATE: 1950/01/06 
+TIME: 04:55:00.0 
+ 
+BORN=  126800    ALIVE=   27022    DEAD=   99779    ACTIVE=     106    DORMANT=   26916 
+ 
+ 
+ 
+ 
+ 
+STEP:     1600 
+DATE: 1950/01/06 
+TIME: 13:15:00.0 
+ 
+BORN=  126800    ALIVE=   27005    DEAD=   99795    ACTIVE=      76    DORMANT=   26929 
+ 
+ 
+ 
+ 
+ 
+STEP:     1700 
+DATE: 1950/01/06 
+TIME: 21:35:00.0 
+ 
+BORN=  126800    ALIVE=   26985    DEAD=   99815    ACTIVE=      39    DORMANT=   26946 
+ 
+ 
+ 
+ 
+ 
+Run stop:  2023/04/27  10:07:54 

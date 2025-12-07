@@ -1,0 +1,76 @@
+##########################################################
+# PTM Simulation file written by SMS 13.1.24 (64-bit)
+# SMS Build Date: Aug 10 2022
+# Date saved: 11/17/22
+# Time saved: 11:53:03
+##########################################################
+#
+# Time ---------------------------------------------------
+#
+:START_RUN                     1950  1  1  0  0  0
+:DURATION                      86400.000000
+:TIME_STEP                     10.000000
+:GRID_UPDATE                   30
+:FLOW_UPDATE                   1
+#
+# Files --------------------------------------------------
+#
+:FLOW_FILE_XMDF                ..\wloclawek_ptm_q_2990\wloclawek_ptm_q_2990_d_0_013\flow_d_0_014.h5
+:FLOW_FORMAT                   XMDF
+:XMDF_VEL_PATH                 Datasets/Overland Velocity
+:XMDF_WSE_PATH                 Datasets/wse
+:START_FLOW                    1950  1  1  0  0  0
+:BC_FILE                       ..\wloclawek_ptm_q_2990\wloclawek_ptm_q_2990_d_0_013\bc_d_0_014.h5
+:MESH_FILE                     ..\wloclawek_ptm_q_2990\wloclawek_ptm_q_2990_d_0_013\geo_d_0_014.14
+:MESH_FORMAT                   ADCIRC
+:NEIGHBOR_FILE                 ..\wloclawek_ptm_q_2990\wloclawek_ptm_q_2990_d_0_013\nb_d_0_013a.neighbors
+:SEDIMENT_FORMAT               ADCIRC
+:SEDIMENT_FILE                 ..\wloclawek_ptm_q_2990\wloclawek_ptm_q_2990_d_0_013\native_d_0_014.sediments
+:SOURCE_FILE                   ..\wloclawek_ptm_q_2990\wloclawek_ptm_q_2990_d_0_013\source_d_0_014.source
+:OUTPUT_PREFIX                 Output
+#
+# Computation Methods ------------------------------------
+#
+:ADVECTION_METHOD              3D
+:CENTROID_METHOD               ROUSE
+:EULERIAN_METHOD               PTM
+:VELOCITY_METHOD               2D (LOGARITHMIC)
+:EULERIAN_SED_TRANS            SOULSBY-VAN_RIJN
+:NUMERICAL_SCHEME              2
+#
+# Computation Parameters ---------------------------------
+#
+:BED_POROSITY                  0.4
+:RHOS                          2650
+:MIN_DEPTH                     0.01
+:TEMPERATURE                   15
+:KET                           0.25
+:SALINITY                      34
+:KEW                           5
+:KEV                           0.00859
+:ETMIN                         0
+:EVMIN                         0
+:CURRENTS
+:NO_WAVE_MASS_TRANSPORT
+#
+# Particle Output ----------------------------------------
+#
+:OUTPUT_INC                    180
+:ELEVATION_OUTPUT
+:GRAIN_SIZE_OUTPUT
+:ID_OUTPUT
+:STATE_OUTPUT
+#
+# Mapping Output -----------------------------------------
+#
+:MAPPING_INC                   1000
+#
+# File Output --------------------------------------------
+#
+#
+# SMS Keywords -------------------------------------------
+#
+:EMRL_GUID_SOURCE_COV          9f84a4ea-db79-4330-84c5-897d68381f35
+:EMRL_PARTICLE_SET_GUID        6632946f-a447-4c91-b9f3-935a5518f013
+:EMRL_SHOW_DEFAULT_KEYWORDS    1
+:END_DATA

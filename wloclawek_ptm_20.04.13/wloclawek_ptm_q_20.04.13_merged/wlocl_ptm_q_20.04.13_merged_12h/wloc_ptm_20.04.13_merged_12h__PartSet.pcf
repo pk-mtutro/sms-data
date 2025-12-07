@@ -1,0 +1,78 @@
+##########################################################
+# PTM Simulation file written by SMS 13.1.24 (64-bit)
+# SMS Build Date: Aug 10 2022
+# Date saved: 01/16/23
+# Time saved: 23:03:46
+##########################################################
+#
+# Time ---------------------------------------------------
+#
+:START_RUN                     1950  1  1  0  0  0
+:DURATION                      432000.000000
+:TIME_STEP                     300.000000
+:GRID_UPDATE                   30
+:FLOW_UPDATE                   1
+#
+# Files --------------------------------------------------
+#
+:FLOW_FILE_XMDF                ..\wloclawek_ptm_q_20.04.13_merged\flow.h5
+:FLOW_FORMAT                   XMDF
+:XMDF_VEL_PATH                 Datasets/Overland Velocity
+:XMDF_WSE_PATH                 Datasets/wse
+:START_FLOW                    1950  1  1  0  0  0
+:BC_FILE                       ..\wloclawek_ptm_q_20.04.13_merged\bc.h5
+:MESH_FILE                     ..\wloclawek_ptm_q_20.04.13_merged\mesh.14
+:MESH_FORMAT                   ADCIRC
+:NEIGHBOR_FILE                 ..\wloclawek_ptm_q_20.04.13_merged\neighbor.neighbors
+:SEDIMENT_FORMAT               ADCIRC
+:SEDIMENT_FILE                 ..\wloclawek_ptm_q_20.04.13_merged\native.sediments
+:SOURCE_FILE                   ..\wloclawek_ptm_q_20.04.13_merged\source.source
+:OUTPUT_PREFIX                 Output
+#
+# Computation Methods ------------------------------------
+#
+:ADVECTION_METHOD              3D
+:CENTROID_METHOD               ROUSE
+:EULERIAN_METHOD               PTM
+:VELOCITY_METHOD               2D (LOGARITHMIC)
+:EULERIAN_SED_TRANS            SOULSBY-VAN_RIJN
+:NUMERICAL_SCHEME              2
+#
+# Computation Parameters ---------------------------------
+#
+:BED_POROSITY                  0.4
+:RHOS                          2650
+:MIN_DEPTH                     0.01
+:TEMPERATURE                   15
+:KET                           0.25
+:SALINITY                      34
+:KEW                           5
+:KEV                           0.00859
+:ETMIN                         0
+:EVMIN                         0
+:CURRENTS
+:NO_WAVE_MASS_TRANSPORT
+#
+# Particle Output ----------------------------------------
+#
+:OUTPUT_INC                    12
+:ELEVATION_OUTPUT
+:FALL_VELOCITY_OUTPUT
+:GRAIN_SIZE_OUTPUT
+:ID_OUTPUT
+:STATE_OUTPUT
+:FLOW_OUTPUT
+#
+# Mapping Output -----------------------------------------
+#
+:MAPPING_INC                   1000
+#
+# File Output --------------------------------------------
+#
+#
+# SMS Keywords -------------------------------------------
+#
+:EMRL_GUID_SOURCE_COV          9f84a4ea-db79-4330-84c5-897d68381f35
+:EMRL_PARTICLE_SET_GUID        20bd9fe7-fd22-4504-bb53-2f08a0424160
+:EMRL_SHOW_DEFAULT_KEYWORDS    1
+:END_DATA

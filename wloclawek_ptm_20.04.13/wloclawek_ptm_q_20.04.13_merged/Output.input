@@ -1,0 +1,95 @@
+PTM Simulation:
+  Version:       2.3 Build 005 (13/Nov/2020)
+  Username:      magda                                                           
+  PCF file:      wloclawek_ptm_q_20.04.13_merged__PartSet.pcf
+  Run start:     2023/01/16 @ 12:54:59
+
+Input Files
+  Mesh:          wloclawek_ptm_q_20.04.13_merged\mesh.14  [adcirc]
+  Sediments:     wloclawek_ptm_q_20.04.13_merged\native.sediments  [adcirc]
+  Neighbors:     wloclawek_ptm_q_20.04.13_merged\neighbor.neighbors
+  WSE:           wloclawek_ptm_q_20.04.13_merged\flow.h5  [xmdf]
+  Flows:         wloclawek_ptm_q_20.04.13_merged\flow.h5  [xmdf]
+  Source:        wloclawek_ptm_q_20.04.13_merged\source.source
+
+Output Files
+  XMDF (p):      Output_parcels.h5
+    ID?:         T
+    Source?:     F
+    Grain size?: T
+    Density?:    F
+    Parcelmass?: F
+    Mobility?:   F
+    Elevation?:  T
+    Height?:     F
+    State?:      T
+    Fall vel.?:  T
+    Tau_cr?:     F
+    Flow?:       T
+
+Flow Start:      1950/01/01 @ 00:00:00.000 (             0.0 sec)
+Start Time:      1950/01/01 @ 00:00:00.000 (             0.0 sec)
+Stop Time:       1950/01/02 @ 00:00:00.000 (         86400.0 sec)
+Duration:           86400.0 sec
+
+Dmin:           0.010 m
+DT:             10.00 sec
+
+Ket:          0.25000
+Kev:          0.00859
+Et (min):     0.00000
+Ev (min):     0.00000
+
+RHOs:          2650.0 kg/m^3
+Porosity:        0.40
+
+Output inc.:      10
+Mapping inc.:   1000
+
+Qs effic.       1.000
+Hiding-exposure?:  T
+Turbulent shear?:  T
+Bed interaction?:  T
+
+CENTROID_METHOD:  rouse                           
+ADVECTION_METHOD: 3d 
+EULERIAN_METHOD:  pie                             
+VELOCITY_METHOD:  2d (log)                        
+Numerical scheme: 2
+Mesh update:         30
+Flow update:          1
+
+Dist. by weight:  F
+Source to datum:  F
+
+XMDF comp.   :  -1
+XMDF path (z):  Datasets/wse                                                                                                                                                                                                                                                    
+XMDF path (u):  Datasets/Overland Velocity                                                                                                                                                                                                                                      
+
+------------------------------------------------------------
+
+Input Mesh
+  Elements:    19828
+  Nodes:       10553
+
+Sources
+  Instants:        0
+  Points:          3
+  Lines:           0
+  Areas:           0
+
+Number of particles:       496714
+Number of steps:             8640
+
+Map output @        1 [1950/01/01  00:00:00.000]
+Map output @     1001 [1950/01/01  02:46:40.000]
+Map output @     2001 [1950/01/01  05:33:20.000]
+Map output @     3001 [1950/01/01  08:20:00.000]
+Map output @     4001 [1950/01/01  11:06:40.000]
+Map output @     5001 [1950/01/01  13:53:20.000]
+Map output @     6001 [1950/01/01  16:40:00.000]
+Map output @     7001 [1950/01/01  19:26:40.000]
+Map output @     8001 [1950/01/01  22:13:20.000]
+
+Run stop:      2023/01/16 @ 14:01:35
+

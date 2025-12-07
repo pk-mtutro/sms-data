@@ -1,0 +1,1254 @@
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 13:56:36][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:12511]: boost::filesystem::equivalent: The request is not supported: "D:\D\doktorat\projekt sms\ptm\wloclawek_ptm_20.03.13\wloclawek_ptm_q_20.04.13_mgs_0.001_phi_1\wloclawek_ptm_q_20.04.13_mgs_0.001_phi_1_datasets\ADH_57_most Mesh_wse.h5"
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 13:56:36][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:12511]: boost::filesystem::equivalent: The request is not supported: "D:\D\doktorat\projekt sms\ptm\wloclawek_ptm_20.03.13\wloclawek_ptm_q_20.04.13_mgs_0.001_phi_1\wloclawek_ptm_q_20.04.13_mgs_0.001_phi_1_datasets\ADH_57_most Mesh_wse.h5"
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:10:45][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 13:56:36][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:12511]: boost::filesystem::equivalent: The request is not supported: "D:\D\doktorat\projekt sms\ptm\wloclawek_ptm_20.03.13\wloclawek_ptm_q_20.04.13_mgs_0.001_phi_1\wloclawek_ptm_q_20.04.13_mgs_0.001_phi_1_datasets\ADH_57_most Mesh_wse.h5"
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:10:45][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 11:52:58][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 11:52:59][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 11:53:03][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 11:53:37][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 11:53:38][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 11:53:41][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 11:53:42][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 12:12:25][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 12:12:26][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 12:12:30][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 12:15:35][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 12:15:36][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 12:15:39][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 13:56:33][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 13:56:34][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 13:56:36][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 13:56:37][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:02:00][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:02:01][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:12511]: boost::filesystem::equivalent: The request is not supported: "D:\D\doktorat\projekt sms\ptm\wloclawek_ptm_20.03.13\wloclawek_ptm_q_20.04.13_mgs_0.001_phi_1\wloclawek_ptm_q_20.04.13_mgs_0.001_phi_1_datasets\ADH_57_most Mesh_wse.h5"
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:02:03][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:10:43][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:10:45][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 14:10:46][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:14:26][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:14:27][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 14:14:29][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.
+[  debug][2022-11-17 14:44:45][sms13_1.exe:source\fileio\filemenu.cpp:11452]: BEGIN Project File Save.
+[  debug][2022-11-17 14:44:45][sms13_1.exe:source\fileio\filemenu.cpp:11469]: PFS - Create project file.
+[  debug][2022-11-17 14:44:45][sms13_1.exe:source\fileio\filemenu.cpp:11475]: PFS - Write annonations.
+[  debug][2022-11-17 14:44:45][sms13_1.exe:source\fileio\filemenu.cpp:11483]: PFS - Write layouts.
+[  debug][2022-11-17 14:44:45][sms13_1.exe:source\fileio\filemenu.cpp:11487]: PFS - Write project file cards.
+[  debug][2022-11-17 14:44:45][sms13_1.exe:source\fileio\filemenu.cpp:11518]: PFS - Get save objects.
+[  debug][2022-11-17 14:44:45][sms13_1.exe:source\fileio\filemenu.cpp:11522]: PFS - Write project defaults to ini group.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11535]: PFS - Write global time settings.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11581]: PFS - Write palletes.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11587]: PFS - Write materials.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11595]: PFS - Write map data.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11601]: PFS - Clean up Components Folder.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11606]: PFS - Write save objects to project data.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11625]: PFS - Write images.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11696]: PFS - Write shape files.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11722]: PFS - Write lidar files.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11735]: PFS - Write CAD files.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11750]: PFS - Write plots.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11756]: PFS - Write genesis data.
+[  debug][2022-11-17 14:44:46][sms13_1.exe:source\fileio\filemenu.cpp:11766]: PFS - Write scatter data.
+[  debug][2022-11-17 14:44:48][sms13_1.exe:source\fileio\filemenu.cpp:11772]: PFS - Write save objects to their files.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11802]: PFS - Write cards to CardSourceList.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11826]: PFS - Write meta data.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11834]: PFS - Write project object.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11838]: PFS - Write notes.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11842]: PFS - Write cross section data base.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11848]: PFS - Write project tree to h5.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:Shared1\tree\XmTree.cpp:381]: XM_ENSURE_TRUE(activityGroup, false) failed
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11856]: PFS - Write DMI simulation solution data.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11905]: PFS - Moving temp project file to actual project file name.
+[  debug][2022-11-17 14:44:49][sms13_1.exe:source\fileio\filemenu.cpp:11982]: PFS - Update the project name on the title bar.

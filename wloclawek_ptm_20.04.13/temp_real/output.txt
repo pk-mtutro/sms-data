@@ -1,0 +1,2379 @@
+
+ This model is licensed. 
+ 
+ 
+PTM Version 2.3 Build 005 (13/Nov/2020) 
+ 
+Run start: 2024/11/21  12:50:24 
+ 
+Reading program control file... 
+Reading ADCIRC mesh data... 
+Reading boundary data... 
+Computing areas of elements... 
+Need to create new element neighbor list... 
+   Checking element neighbors... 
+        100 of   19828 elements 
+        200 of   19828 elements 
+        300 of   19828 elements 
+        400 of   19828 elements 
+        500 of   19828 elements 
+        600 of   19828 elements 
+        700 of   19828 elements 
+        800 of   19828 elements 
+        900 of   19828 elements 
+       1000 of   19828 elements 
+       1100 of   19828 elements 
+       1200 of   19828 elements 
+       1300 of   19828 elements 
+       1400 of   19828 elements 
+       1500 of   19828 elements 
+       1600 of   19828 elements 
+       1700 of   19828 elements 
+       1800 of   19828 elements 
+       1900 of   19828 elements 
+       2000 of   19828 elements 
+       2100 of   19828 elements 
+       2200 of   19828 elements 
+       2300 of   19828 elements 
+       2400 of   19828 elements 
+       2500 of   19828 elements 
+       2600 of   19828 elements 
+       2700 of   19828 elements 
+       2800 of   19828 elements 
+       2900 of   19828 elements 
+       3000 of   19828 elements 
+       3100 of   19828 elements 
+       3200 of   19828 elements 
+       3300 of   19828 elements 
+       3400 of   19828 elements 
+       3500 of   19828 elements 
+       3600 of   19828 elements 
+       3700 of   19828 elements 
+       3800 of   19828 elements 
+       3900 of   19828 elements 
+       4000 of   19828 elements 
+       4100 of   19828 elements 
+       4200 of   19828 elements 
+       4300 of   19828 elements 
+       4400 of   19828 elements 
+       4500 of   19828 elements 
+       4600 of   19828 elements 
+       4700 of   19828 elements 
+       4800 of   19828 elements 
+       4900 of   19828 elements 
+       5000 of   19828 elements 
+       5100 of   19828 elements 
+       5200 of   19828 elements 
+       5300 of   19828 elements 
+       5400 of   19828 elements 
+       5500 of   19828 elements 
+       5600 of   19828 elements 
+       5700 of   19828 elements 
+       5800 of   19828 elements 
+       5900 of   19828 elements 
+       6000 of   19828 elements 
+       6100 of   19828 elements 
+       6200 of   19828 elements 
+       6300 of   19828 elements 
+       6400 of   19828 elements 
+       6500 of   19828 elements 
+       6600 of   19828 elements 
+       6700 of   19828 elements 
+       6800 of   19828 elements 
+       6900 of   19828 elements 
+       7000 of   19828 elements 
+       7100 of   19828 elements 
+       7200 of   19828 elements 
+       7300 of   19828 elements 
+       7400 of   19828 elements 
+       7500 of   19828 elements 
+       7600 of   19828 elements 
+       7700 of   19828 elements 
+       7800 of   19828 elements 
+       7900 of   19828 elements 
+       8000 of   19828 elements 
+       8100 of   19828 elements 
+       8200 of   19828 elements 
+       8300 of   19828 elements 
+       8400 of   19828 elements 
+       8500 of   19828 elements 
+       8600 of   19828 elements 
+       8700 of   19828 elements 
+       8800 of   19828 elements 
+       8900 of   19828 elements 
+       9000 of   19828 elements 
+       9100 of   19828 elements 
+       9200 of   19828 elements 
+       9300 of   19828 elements 
+       9400 of   19828 elements 
+       9500 of   19828 elements 
+       9600 of   19828 elements 
+       9700 of   19828 elements 
+       9800 of   19828 elements 
+       9900 of   19828 elements 
+      10000 of   19828 elements 
+      10100 of   19828 elements 
+      10200 of   19828 elements 
+      10300 of   19828 elements 
+      10400 of   19828 elements 
+      10500 of   19828 elements 
+      10600 of   19828 elements 
+      10700 of   19828 elements 
+      10800 of   19828 elements 
+      10900 of   19828 elements 
+      11000 of   19828 elements 
+      11100 of   19828 elements 
+      11200 of   19828 elements 
+      11300 of   19828 elements 
+      11400 of   19828 elements 
+      11500 of   19828 elements 
+      11600 of   19828 elements 
+      11700 of   19828 elements 
+      11800 of   19828 elements 
+      11900 of   19828 elements 
+      12000 of   19828 elements 
+      12100 of   19828 elements 
+      12200 of   19828 elements 
+      12300 of   19828 elements 
+      12400 of   19828 elements 
+      12500 of   19828 elements 
+      12600 of   19828 elements 
+      12700 of   19828 elements 
+      12800 of   19828 elements 
+      12900 of   19828 elements 
+      13000 of   19828 elements 
+      13100 of   19828 elements 
+      13200 of   19828 elements 
+      13300 of   19828 elements 
+      13400 of   19828 elements 
+      13500 of   19828 elements 
+      13600 of   19828 elements 
+      13700 of   19828 elements 
+      13800 of   19828 elements 
+      10000 of   19828 elements 
+      11000 of   19828 elements 
+      12000 of   19828 elements 
+      13000 of   19828 elements 
+      14000 of   19828 elements 
+      15000 of   19828 elements 
+      16000 of   19828 elements 
+      17000 of   19828 elements 
+      18000 of   19828 elements 
+      19000 of   19828 elements 
+      19828 of   19828 elements 
+      19828 of   19828 elements 
+      19828 of   19828 elements 
+      19828 of   19828 elements 
+ 
+   Creating element neighbor lists... 
+       1000 of   19828 elements 
+       2000 of   19828 elements 
+       3000 of   19828 elements 
+       4000 of   19828 elements 
+       5000 of   19828 elements 
+       6000 of   19828 elements 
+       7000 of   19828 elements 
+       8000 of   19828 elements 
+       9000 of   19828 elements 
+      10000 of   19828 elements 
+      11000 of   19828 elements 
+      12000 of   19828 elements 
+      13000 of   19828 elements 
+      10000 of   19828 elements 
+      11000 of   19828 elements 
+      12000 of   19828 elements 
+      13000 of   19828 elements 
+      14000 of   19828 elements 
+      15000 of   19828 elements 
+      16000 of   19828 elements 
+      17000 of   19828 elements 
+      18000 of   19828 elements 
+      19000 of   19828 elements 
+      19828 of   19828 elements 
+      19828 of   19828 elements 
+      19828 of   19828 elements 
+      19828 of   19828 elements 
+ 
+   Writing data to neighbor file... 
+Creating closed boundary element list... 
+Creating open boundary element list... 
+Writing boundary element lists to file... 
+Writing element boundary lists to file... 
+Reading sediment data file... 
+Opening hydrodynamic data file... 
+Reading sediment source data... 
+Synthesizing particles from point source   1 [  1] 
+Synthesizing particles from point source   1 [  2] 
+Synthesizing particles from point source   2 [  1] 
+Synthesizing particles from point source   2 [  2] 
+Synthesizing particles from point source   3 [  1] 
+Synthesizing particles from point source   3 [  2] 
+Estimated number of particles:    11785 
+Estimated number of time steps:   21601 
+Initializing output files... 
+Starting simulation... 
+Advancing to start time... 
+ 
+ 
+ 
+STEP:      100 
+DATE: 1950/01/16 
+TIME: 01:39:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:      200 
+DATE: 1950/01/16 
+TIME: 03:19:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:      300 
+DATE: 1950/01/16 
+TIME: 04:59:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:      400 
+DATE: 1950/01/16 
+TIME: 06:39:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:      500 
+DATE: 1950/01/16 
+TIME: 08:19:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:      600 
+DATE: 1950/01/16 
+TIME: 09:59:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:      700 
+DATE: 1950/01/16 
+TIME: 11:39:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:      800 
+DATE: 1950/01/16 
+TIME: 13:19:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:      900 
+DATE: 1950/01/16 
+TIME: 14:59:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:     1000 
+DATE: 1950/01/16 
+TIME: 16:39:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:     1100 
+DATE: 1950/01/16 
+TIME: 18:19:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:     1200 
+DATE: 1950/01/16 
+TIME: 19:59:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:     1300 
+DATE: 1950/01/16 
+TIME: 21:39:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:     1400 
+DATE: 1950/01/16 
+TIME: 23:19:00.0 
+ 
+BORN=       0    ALIVE=       0    DEAD=       0    ACTIVE=       0    DORMANT=       0 
+ 
+ 
+ 
+ 
+ 
+STEP:     1500 
+DATE: 1950/01/17 
+TIME: 00:59:00.0 
+ 
+BORN=     944    ALIVE=     918    DEAD=      26    ACTIVE=     904    DORMANT=      14 
+ 
+ 
+ 
+ 
+ 
+STEP:     1600 
+DATE: 1950/01/17 
+TIME: 02:39:00.0 
+ 
+BORN=    2457    ALIVE=    2389    DEAD=      69    ACTIVE=    2363    DORMANT=      26 
+ 
+ 
+ 
+ 
+ 
+STEP:     1700 
+DATE: 1950/01/17 
+TIME: 04:19:00.0 
+ 
+BORN=    3856    ALIVE=    3742    DEAD=     115    ACTIVE=    3690    DORMANT=      52 
+ 
+ 
+ 
+ 
+ 
+STEP:     1800 
+DATE: 1950/01/17 
+TIME: 05:59:00.0 
+ 
+BORN=    5142    ALIVE=    4993    DEAD=     150    ACTIVE=    4906    DORMANT=      87 
+ 
+ 
+ 
+ 
+ 
+STEP:     1900 
+DATE: 1950/01/17 
+TIME: 07:39:00.0 
+ 
+BORN=    6314    ALIVE=    6138    DEAD=     176    ACTIVE=    6020    DORMANT=     118 
+ 
+ 
+ 
+ 
+ 
+STEP:     2000 
+DATE: 1950/01/17 
+TIME: 09:19:00.0 
+ 
+BORN=    7372    ALIVE=    7159    DEAD=     214    ACTIVE=    7014    DORMANT=     145 
+ 
+ 
+ 
+ 
+ 
+STEP:     2100 
+DATE: 1950/01/17 
+TIME: 10:59:00.0 
+ 
+BORN=    8318    ALIVE=    8073    DEAD=     246    ACTIVE=    7895    DORMANT=     178 
+ 
+ 
+ 
+ 
+ 
+STEP:     2200 
+DATE: 1950/01/17 
+TIME: 12:39:00.0 
+ 
+BORN=    9149    ALIVE=    8877    DEAD=     273    ACTIVE=    8654    DORMANT=     223 
+ 
+ 
+ 
+ 
+ 
+STEP:     2300 
+DATE: 1950/01/17 
+TIME: 14:19:00.0 
+ 
+BORN=    9865    ALIVE=    9569    DEAD=     296    ACTIVE=    9296    DORMANT=     273 
+ 
+ 
+ 
+ 
+ 
+STEP:     2400 
+DATE: 1950/01/17 
+TIME: 15:59:00.0 
+ 
+BORN=   10469    ALIVE=   10151    DEAD=     318    ACTIVE=    9741    DORMANT=     410 
+ 
+ 
+ 
+ 
+ 
+STEP:     2500 
+DATE: 1950/01/17 
+TIME: 17:39:00.0 
+ 
+BORN=   10959    ALIVE=   10628    DEAD=     331    ACTIVE=   10088    DORMANT=     540 
+ 
+ 
+ 
+ 
+ 
+STEP:     2600 
+DATE: 1950/01/17 
+TIME: 19:19:00.0 
+ 
+BORN=   11336    ALIVE=   10989    DEAD=     347    ACTIVE=   10250    DORMANT=     739 
+ 
+ 
+ 
+ 
+ 
+STEP:     2700 
+DATE: 1950/01/17 
+TIME: 20:59:00.0 
+ 
+BORN=   11597    ALIVE=   11240    DEAD=     357    ACTIVE=   10250    DORMANT=     990 
+ 
+ 
+ 
+ 
+ 
+STEP:     2800 
+DATE: 1950/01/17 
+TIME: 22:39:00.0 
+ 
+BORN=   11746    ALIVE=   11379    DEAD=     367    ACTIVE=   10112    DORMANT=    1267 
+ 
+ 
+ 
+ 
+ 
+STEP:     2900 
+DATE: 1950/01/18 
+TIME: 00:19:00.0 
+ 
+BORN=   11785    ALIVE=   11415    DEAD=     370    ACTIVE=    9767    DORMANT=    1648 
+ 
+ 
+ 
+ 
+ 
+STEP:     3000 
+DATE: 1950/01/18 
+TIME: 01:59:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    9332    DORMANT=    2081 
+ 
+ 
+ 
+ 
+ 
+STEP:     3100 
+DATE: 1950/01/18 
+TIME: 03:39:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    8883    DORMANT=    2530 
+ 
+ 
+ 
+ 
+ 
+STEP:     3200 
+DATE: 1950/01/18 
+TIME: 05:19:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    8453    DORMANT=    2960 
+ 
+ 
+ 
+ 
+ 
+STEP:     3300 
+DATE: 1950/01/18 
+TIME: 06:59:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    8019    DORMANT=    3394 
+ 
+ 
+ 
+ 
+ 
+STEP:     3400 
+DATE: 1950/01/18 
+TIME: 08:39:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    7598    DORMANT=    3815 
+ 
+ 
+ 
+ 
+ 
+STEP:     3500 
+DATE: 1950/01/18 
+TIME: 10:19:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    7153    DORMANT=    4260 
+ 
+ 
+ 
+ 
+ 
+STEP:     3600 
+DATE: 1950/01/18 
+TIME: 11:59:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    6788    DORMANT=    4625 
+ 
+ 
+ 
+ 
+ 
+STEP:     3700 
+DATE: 1950/01/18 
+TIME: 13:39:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    6450    DORMANT=    4963 
+ 
+ 
+ 
+ 
+ 
+STEP:     3800 
+DATE: 1950/01/18 
+TIME: 15:19:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    6129    DORMANT=    5284 
+ 
+ 
+ 
+ 
+ 
+STEP:     3900 
+DATE: 1950/01/18 
+TIME: 16:59:00.0 
+ 
+BORN=   11785    ALIVE=   11413    DEAD=     372    ACTIVE=    5815    DORMANT=    5598 
+ 
+ 
+ 
+ 
+ 
+STEP:     4000 
+DATE: 1950/01/18 
+TIME: 18:39:00.0 
+ 
+BORN=   11785    ALIVE=   11412    DEAD=     373    ACTIVE=    5636    DORMANT=    5776 
+ 
+ 
+ 
+ 
+ 
+STEP:     4100 
+DATE: 1950/01/18 
+TIME: 20:19:00.0 
+ 
+BORN=   11785    ALIVE=   11411    DEAD=     374    ACTIVE=    5438    DORMANT=    5973 
+ 
+ 
+ 
+ 
+ 
+STEP:     4200 
+DATE: 1950/01/18 
+TIME: 21:59:00.0 
+ 
+BORN=   11785    ALIVE=   11411    DEAD=     374    ACTIVE=    5277    DORMANT=    6134 
+ 
+ 
+ 
+ 
+ 
+STEP:     4300 
+DATE: 1950/01/18 
+TIME: 23:39:00.0 
+ 
+BORN=   11785    ALIVE=   11407    DEAD=     378    ACTIVE=    5151    DORMANT=    6256 
+ 
+ 
+ 
+ 
+ 
+STEP:     4400 
+DATE: 1950/01/19 
+TIME: 01:19:00.0 
+ 
+BORN=   11785    ALIVE=   11362    DEAD=     423    ACTIVE=    5009    DORMANT=    6353 
+ 
+ 
+ 
+ 
+ 
+STEP:     4500 
+DATE: 1950/01/19 
+TIME: 02:59:00.0 
+ 
+BORN=   11785    ALIVE=   11189    DEAD=     600    ACTIVE=    4754    DORMANT=    6435 
+ 
+ 
+ 
+ 
+ 
+STEP:     4600 
+DATE: 1950/01/19 
+TIME: 04:39:00.0 
+ 
+BORN=   11785    ALIVE=   10854    DEAD=     938    ACTIVE=    4350    DORMANT=    6504 
+ 
+ 
+ 
+ 
+ 
+STEP:     4700 
+DATE: 1950/01/19 
+TIME: 06:19:00.0 
+ 
+BORN=   11785    ALIVE=   10399    DEAD=    1388    ACTIVE=    3925    DORMANT=    6474 
+ 
+ 
+ 
+ 
+ 
+STEP:     4800 
+DATE: 1950/01/19 
+TIME: 07:59:00.0 
+ 
+BORN=   11785    ALIVE=    9978    DEAD=    1809    ACTIVE=    3481    DORMANT=    6497 
+ 
+ 
+ 
+ 
+ 
+STEP:     4900 
+DATE: 1950/01/19 
+TIME: 09:39:00.0 
+ 
+BORN=   11785    ALIVE=    9552    DEAD=    2234    ACTIVE=    3055    DORMANT=    6497 
+ 
+ 
+ 
+ 
+ 
+STEP:     5000 
+DATE: 1950/01/19 
+TIME: 11:19:00.0 
+ 
+BORN=   11785    ALIVE=    9171    DEAD=    2620    ACTIVE=    2717    DORMANT=    6454 
+ 
+ 
+ 
+ 
+ 
+STEP:     5100 
+DATE: 1950/01/19 
+TIME: 12:59:00.0 
+ 
+BORN=   11785    ALIVE=    8773    DEAD=    3017    ACTIVE=    2288    DORMANT=    6485 
+ 
+ 
+ 
+ 
+ 
+STEP:     5200 
+DATE: 1950/01/19 
+TIME: 14:39:00.0 
+ 
+BORN=   11785    ALIVE=    8430    DEAD=    3357    ACTIVE=    2039    DORMANT=    6391 
+ 
+ 
+ 
+ 
+ 
+STEP:     5300 
+DATE: 1950/01/19 
+TIME: 16:19:00.0 
+ 
+BORN=   11785    ALIVE=    8142    DEAD=    3646    ACTIVE=    1705    DORMANT=    6437 
+ 
+ 
+ 
+ 
+ 
+STEP:     5400 
+DATE: 1950/01/19 
+TIME: 17:59:00.0 
+ 
+BORN=   11785    ALIVE=    7887    DEAD=    3901    ACTIVE=    1496    DORMANT=    6391 
+ 
+ 
+ 
+ 
+ 
+STEP:     5500 
+DATE: 1950/01/19 
+TIME: 19:39:00.0 
+ 
+BORN=   11785    ALIVE=    7670    DEAD=    4118    ACTIVE=    1299    DORMANT=    6371 
+ 
+ 
+ 
+ 
+ 
+STEP:     5600 
+DATE: 1950/01/19 
+TIME: 21:19:00.0 
+ 
+BORN=   11785    ALIVE=    7505    DEAD=    4280    ACTIVE=    1119    DORMANT=    6386 
+ 
+ 
+ 
+ 
+ 
+STEP:     5700 
+DATE: 1950/01/19 
+TIME: 22:59:00.0 
+ 
+BORN=   11785    ALIVE=    7395    DEAD=    4390    ACTIVE=    1064    DORMANT=    6331 
+ 
+ 
+ 
+ 
+ 
+STEP:     5800 
+DATE: 1950/01/20 
+TIME: 00:39:00.0 
+ 
+BORN=   11785    ALIVE=    7308    DEAD=    4477    ACTIVE=    1022    DORMANT=    6286 
+ 
+ 
+ 
+ 
+ 
+STEP:     5900 
+DATE: 1950/01/20 
+TIME: 02:19:00.0 
+ 
+BORN=   11785    ALIVE=    7259    DEAD=    4528    ACTIVE=    1027    DORMANT=    6232 
+ 
+ 
+ 
+ 
+ 
+STEP:     6000 
+DATE: 1950/01/20 
+TIME: 03:59:00.0 
+ 
+BORN=   11785    ALIVE=    7202    DEAD=    4584    ACTIVE=    1020    DORMANT=    6182 
+ 
+ 
+ 
+ 
+ 
+STEP:     6100 
+DATE: 1950/01/20 
+TIME: 05:39:00.0 
+ 
+BORN=   11785    ALIVE=    7159    DEAD=    4626    ACTIVE=    1114    DORMANT=    6045 
+ 
+ 
+ 
+ 
+ 
+STEP:     6200 
+DATE: 1950/01/20 
+TIME: 07:19:00.0 
+ 
+BORN=   11785    ALIVE=    7110    DEAD=    4675    ACTIVE=    1182    DORMANT=    5928 
+ 
+ 
+ 
+ 
+ 
+STEP:     6300 
+DATE: 1950/01/20 
+TIME: 08:59:00.0 
+ 
+BORN=   11785    ALIVE=    7050    DEAD=    4735    ACTIVE=    1219    DORMANT=    5831 
+ 
+ 
+ 
+ 
+ 
+STEP:     6400 
+DATE: 1950/01/20 
+TIME: 10:39:00.0 
+ 
+BORN=   11785    ALIVE=    7007    DEAD=    4778    ACTIVE=    1256    DORMANT=    5751 
+ 
+ 
+ 
+ 
+ 
+STEP:     6500 
+DATE: 1950/01/20 
+TIME: 12:19:00.0 
+ 
+BORN=   11785    ALIVE=    6959    DEAD=    4827    ACTIVE=    1290    DORMANT=    5669 
+ 
+ 
+ 
+ 
+ 
+STEP:     6600 
+DATE: 1950/01/20 
+TIME: 13:59:00.0 
+ 
+BORN=   11785    ALIVE=    6894    DEAD=    4891    ACTIVE=    1292    DORMANT=    5602 
+ 
+ 
+ 
+ 
+ 
+STEP:     6700 
+DATE: 1950/01/20 
+TIME: 15:39:00.0 
+ 
+BORN=   11785    ALIVE=    6847    DEAD=    4939    ACTIVE=    1344    DORMANT=    5503 
+ 
+ 
+ 
+ 
+ 
+STEP:     6800 
+DATE: 1950/01/20 
+TIME: 17:19:00.0 
+ 
+BORN=   11785    ALIVE=    6775    DEAD=    5012    ACTIVE=    1301    DORMANT=    5474 
+ 
+ 
+ 
+ 
+ 
+STEP:     6900 
+DATE: 1950/01/20 
+TIME: 18:59:00.0 
+ 
+BORN=   11785    ALIVE=    6722    DEAD=    5063    ACTIVE=    1311    DORMANT=    5411 
+ 
+ 
+ 
+ 
+ 
+STEP:     7000 
+DATE: 1950/01/20 
+TIME: 20:39:00.0 
+ 
+BORN=   11785    ALIVE=    6664    DEAD=    5121    ACTIVE=    1254    DORMANT=    5410 
+ 
+ 
+ 
+ 
+ 
+STEP:     7100 
+DATE: 1950/01/20 
+TIME: 22:19:00.0 
+ 
+BORN=   11785    ALIVE=    6598    DEAD=    5187    ACTIVE=    1290    DORMANT=    5308 
+ 
+ 
+ 
+ 
+ 
+STEP:     7200 
+DATE: 1950/01/20 
+TIME: 23:59:00.0 
+ 
+BORN=   11785    ALIVE=    6522    DEAD=    5263    ACTIVE=    1230    DORMANT=    5292 
+ 
+ 
+ 
+ 
+ 
+STEP:     7300 
+DATE: 1950/01/21 
+TIME: 01:39:00.0 
+ 
+BORN=   11785    ALIVE=    6464    DEAD=    5321    ACTIVE=    1233    DORMANT=    5231 
+ 
+ 
+ 
+ 
+ 
+STEP:     7400 
+DATE: 1950/01/21 
+TIME: 03:19:00.0 
+ 
+BORN=   11785    ALIVE=    6397    DEAD=    5389    ACTIVE=    1204    DORMANT=    5193 
+ 
+ 
+ 
+ 
+ 
+STEP:     7500 
+DATE: 1950/01/21 
+TIME: 04:59:00.0 
+ 
+BORN=   11785    ALIVE=    6317    DEAD=    5468    ACTIVE=    1133    DORMANT=    5184 
+ 
+ 
+ 
+ 
+ 
+STEP:     7600 
+DATE: 1950/01/21 
+TIME: 06:39:00.0 
+ 
+BORN=   11785    ALIVE=    6260    DEAD=    5525    ACTIVE=    1057    DORMANT=    5203 
+ 
+ 
+ 
+ 
+ 
+STEP:     7700 
+DATE: 1950/01/21 
+TIME: 08:19:00.0 
+ 
+BORN=   11785    ALIVE=    6198    DEAD=    5589    ACTIVE=     989    DORMANT=    5209 
+ 
+ 
+ 
+ 
+ 
+STEP:     7800 
+DATE: 1950/01/21 
+TIME: 09:59:00.0 
+ 
+BORN=   11785    ALIVE=    6124    DEAD=    5661    ACTIVE=     944    DORMANT=    5180 
+ 
+ 
+ 
+ 
+ 
+STEP:     7900 
+DATE: 1950/01/21 
+TIME: 11:39:00.0 
+ 
+BORN=   11785    ALIVE=    6068    DEAD=    5720    ACTIVE=     911    DORMANT=    5157 
+ 
+ 
+ 
+ 
+ 
+STEP:     8000 
+DATE: 1950/01/21 
+TIME: 13:19:00.0 
+ 
+BORN=   11785    ALIVE=    5979    DEAD=    5806    ACTIVE=     851    DORMANT=    5128 
+ 
+ 
+ 
+ 
+ 
+STEP:     8100 
+DATE: 1950/01/21 
+TIME: 14:59:00.0 
+ 
+BORN=   11785    ALIVE=    5911    DEAD=    5876    ACTIVE=     795    DORMANT=    5116 
+ 
+ 
+ 
+ 
+ 
+STEP:     8200 
+DATE: 1950/01/21 
+TIME: 16:39:00.0 
+ 
+BORN=   11785    ALIVE=    5846    DEAD=    5940    ACTIVE=     790    DORMANT=    5056 
+ 
+ 
+ 
+ 
+ 
+STEP:     8300 
+DATE: 1950/01/21 
+TIME: 18:19:00.0 
+ 
+BORN=   11785    ALIVE=    5788    DEAD=    5998    ACTIVE=     767    DORMANT=    5021 
+ 
+ 
+ 
+ 
+ 
+STEP:     8400 
+DATE: 1950/01/21 
+TIME: 19:59:00.0 
+ 
+BORN=   11785    ALIVE=    5729    DEAD=    6056    ACTIVE=     755    DORMANT=    4974 
+ 
+ 
+ 
+ 
+ 
+STEP:     8500 
+DATE: 1950/01/21 
+TIME: 21:39:00.0 
+ 
+BORN=   11785    ALIVE=    5688    DEAD=    6097    ACTIVE=     717    DORMANT=    4971 
+ 
+ 
+ 
+ 
+ 
+STEP:     8600 
+DATE: 1950/01/21 
+TIME: 23:19:00.0 
+ 
+BORN=   11785    ALIVE=    5649    DEAD=    6137    ACTIVE=     721    DORMANT=    4928 
+ 
+ 
+ 
+ 
+ 
+STEP:     8700 
+DATE: 1950/01/22 
+TIME: 00:59:00.0 
+ 
+BORN=   11785    ALIVE=    5587    DEAD=    6198    ACTIVE=     679    DORMANT=    4908 
+ 
+ 
+ 
+ 
+ 
+STEP:     8800 
+DATE: 1950/01/22 
+TIME: 02:39:00.0 
+ 
+BORN=   11785    ALIVE=    5535    DEAD=    6252    ACTIVE=     702    DORMANT=    4833 
+ 
+ 
+ 
+ 
+ 
+STEP:     8900 
+DATE: 1950/01/22 
+TIME: 04:19:00.0 
+ 
+BORN=   11785    ALIVE=    5480    DEAD=    6305    ACTIVE=     671    DORMANT=    4809 
+ 
+ 
+ 
+ 
+ 
+STEP:     9000 
+DATE: 1950/01/22 
+TIME: 05:59:00.0 
+ 
+BORN=   11785    ALIVE=    5429    DEAD=    6357    ACTIVE=     624    DORMANT=    4805 
+ 
+ 
+ 
+ 
+ 
+STEP:     9100 
+DATE: 1950/01/22 
+TIME: 07:39:00.0 
+ 
+BORN=   11785    ALIVE=    5383    DEAD=    6403    ACTIVE=     590    DORMANT=    4793 
+ 
+ 
+ 
+ 
+ 
+STEP:     9200 
+DATE: 1950/01/22 
+TIME: 09:19:00.0 
+ 
+BORN=   11785    ALIVE=    5313    DEAD=    6472    ACTIVE=     543    DORMANT=    4770 
+ 
+ 
+ 
+ 
+ 
+STEP:     9300 
+DATE: 1950/01/22 
+TIME: 10:59:00.0 
+ 
+BORN=   11785    ALIVE=    5258    DEAD=    6527    ACTIVE=     510    DORMANT=    4748 
+ 
+ 
+ 
+ 
+ 
+STEP:     9400 
+DATE: 1950/01/22 
+TIME: 12:39:00.0 
+ 
+BORN=   11785    ALIVE=    5218    DEAD=    6567    ACTIVE=     473    DORMANT=    4745 
+ 
+ 
+ 
+ 
+ 
+STEP:     9500 
+DATE: 1950/01/22 
+TIME: 14:19:00.0 
+ 
+BORN=   11785    ALIVE=    5182    DEAD=    6603    ACTIVE=     474    DORMANT=    4708 
+ 
+ 
+ 
+ 
+ 
+STEP:     9600 
+DATE: 1950/01/22 
+TIME: 15:59:00.0 
+ 
+BORN=   11785    ALIVE=    5139    DEAD=    6646    ACTIVE=     450    DORMANT=    4689 
+ 
+ 
+ 
+ 
+ 
+STEP:     9700 
+DATE: 1950/01/22 
+TIME: 17:39:00.0 
+ 
+BORN=   11785    ALIVE=    5096    DEAD=    6689    ACTIVE=     463    DORMANT=    4633 
+ 
+ 
+ 
+ 
+ 
+STEP:     9800 
+DATE: 1950/01/22 
+TIME: 19:19:00.0 
+ 
+BORN=   11785    ALIVE=    5057    DEAD=    6729    ACTIVE=     436    DORMANT=    4621 
+ 
+ 
+ 
+ 
+ 
+STEP:     9900 
+DATE: 1950/01/22 
+TIME: 20:59:00.0 
+ 
+BORN=   11785    ALIVE=    5019    DEAD=    6766    ACTIVE=     447    DORMANT=    4572 
+ 
+ 
+ 
+ 
+ 
+STEP:    10000 
+DATE: 1950/01/22 
+TIME: 22:39:00.0 
+ 
+BORN=   11785    ALIVE=    4985    DEAD=    6800    ACTIVE=     434    DORMANT=    4551 
+ 
+ 
+ 
+ 
+ 
+STEP:    10100 
+DATE: 1950/01/23 
+TIME: 00:19:00.0 
+ 
+BORN=   11785    ALIVE=    4957    DEAD=    6829    ACTIVE=     412    DORMANT=    4545 
+ 
+ 
+ 
+ 
+ 
+STEP:    10200 
+DATE: 1950/01/23 
+TIME: 01:59:00.0 
+ 
+BORN=   11785    ALIVE=    4927    DEAD=    6858    ACTIVE=     406    DORMANT=    4521 
+ 
+ 
+ 
+ 
+ 
+STEP:    10300 
+DATE: 1950/01/23 
+TIME: 03:39:00.0 
+ 
+BORN=   11785    ALIVE=    4894    DEAD=    6891    ACTIVE=     396    DORMANT=    4498 
+ 
+ 
+ 
+ 
+ 
+STEP:    10400 
+DATE: 1950/01/23 
+TIME: 05:19:00.0 
+ 
+BORN=   11785    ALIVE=    4858    DEAD=    6927    ACTIVE=     345    DORMANT=    4513 
+ 
+ 
+ 
+ 
+ 
+STEP:    10500 
+DATE: 1950/01/23 
+TIME: 06:59:00.0 
+ 
+BORN=   11785    ALIVE=    4820    DEAD=    6965    ACTIVE=     317    DORMANT=    4503 
+ 
+ 
+ 
+ 
+ 
+STEP:    10600 
+DATE: 1950/01/23 
+TIME: 08:39:00.0 
+ 
+BORN=   11785    ALIVE=    4795    DEAD=    6991    ACTIVE=     291    DORMANT=    4504 
+ 
+ 
+ 
+ 
+ 
+STEP:    10700 
+DATE: 1950/01/23 
+TIME: 10:19:00.0 
+ 
+BORN=   11785    ALIVE=    4772    DEAD=    7013    ACTIVE=     268    DORMANT=    4504 
+ 
+ 
+ 
+ 
+ 
+STEP:    10800 
+DATE: 1950/01/23 
+TIME: 11:59:00.0 
+ 
+BORN=   11785    ALIVE=    4749    DEAD=    7036    ACTIVE=     243    DORMANT=    4506 
+ 
+ 
+ 
+ 
+ 
+STEP:    10900 
+DATE: 1950/01/23 
+TIME: 13:39:00.0 
+ 
+BORN=   11785    ALIVE=    4716    DEAD=    7069    ACTIVE=     202    DORMANT=    4514 
+ 
+ 
+ 
+ 
+ 
+STEP:    11000 
+DATE: 1950/01/23 
+TIME: 15:19:00.0 
+ 
+BORN=   11785    ALIVE=    4687    DEAD=    7098    ACTIVE=     187    DORMANT=    4500 
+ 
+ 
+ 
+ 
+ 
+STEP:    11100 
+DATE: 1950/01/23 
+TIME: 16:59:00.0 
+ 
+BORN=   11785    ALIVE=    4670    DEAD=    7115    ACTIVE=     188    DORMANT=    4482 
+ 
+ 
+ 
+ 
+ 
+STEP:    11200 
+DATE: 1950/01/23 
+TIME: 18:39:00.0 
+ 
+BORN=   11785    ALIVE=    4658    DEAD=    7127    ACTIVE=     176    DORMANT=    4482 
+ 
+ 
+ 
+ 
+ 
+STEP:    11300 
+DATE: 1950/01/23 
+TIME: 20:19:00.0 
+ 
+BORN=   11785    ALIVE=    4641    DEAD=    7144    ACTIVE=     183    DORMANT=    4458 
+ 
+ 
+ 
+ 
+ 
+STEP:    11400 
+DATE: 1950/01/23 
+TIME: 21:59:00.0 
+ 
+BORN=   11785    ALIVE=    4622    DEAD=    7163    ACTIVE=     163    DORMANT=    4459 
+ 
+ 
+ 
+ 
+ 
+STEP:    11500 
+DATE: 1950/01/23 
+TIME: 23:39:00.0 
+ 
+BORN=   11785    ALIVE=    4609    DEAD=    7176    ACTIVE=     176    DORMANT=    4433 
+ 
+ 
+ 
+ 
+ 
+STEP:    11600 
+DATE: 1950/01/24 
+TIME: 01:19:00.0 
+ 
+BORN=   11785    ALIVE=    4599    DEAD=    7186    ACTIVE=     174    DORMANT=    4425 
+ 
+ 
+ 
+ 
+ 
+STEP:    11700 
+DATE: 1950/01/24 
+TIME: 02:59:00.0 
+ 
+BORN=   11785    ALIVE=    4583    DEAD=    7202    ACTIVE=     179    DORMANT=    4404 
+ 
+ 
+ 
+ 
+ 
+STEP:    11800 
+DATE: 1950/01/24 
+TIME: 04:39:00.0 
+ 
+BORN=   11785    ALIVE=    4574    DEAD=    7211    ACTIVE=     226    DORMANT=    4348 
+ 
+ 
+ 
+ 
+ 
+STEP:    11900 
+DATE: 1950/01/24 
+TIME: 06:19:00.0 
+ 
+BORN=   11785    ALIVE=    4557    DEAD=    7228    ACTIVE=     278    DORMANT=    4279 
+ 
+ 
+ 
+ 
+ 
+STEP:    12000 
+DATE: 1950/01/24 
+TIME: 07:59:00.0 
+ 
+BORN=   11785    ALIVE=    4537    DEAD=    7248    ACTIVE=     323    DORMANT=    4214 
+ 
+ 
+ 
+ 
+ 
+STEP:    12100 
+DATE: 1950/01/24 
+TIME: 09:39:00.0 
+ 
+BORN=   11785    ALIVE=    4515    DEAD=    7270    ACTIVE=     328    DORMANT=    4187 
+ 
+ 
+ 
+ 
+ 
+STEP:    12200 
+DATE: 1950/01/24 
+TIME: 11:19:00.0 
+ 
+BORN=   11785    ALIVE=    4503    DEAD=    7283    ACTIVE=     380    DORMANT=    4123 
+ 
+ 
+ 
+ 
+ 
+STEP:    12300 
+DATE: 1950/01/24 
+TIME: 12:59:00.0 
+ 
+BORN=   11785    ALIVE=    4485    DEAD=    7300    ACTIVE=     410    DORMANT=    4075 
+ 
+ 
+ 
+ 
+ 
+STEP:    12400 
+DATE: 1950/01/24 
+TIME: 14:39:00.0 
+ 
+BORN=   11785    ALIVE=    4458    DEAD=    7327    ACTIVE=     423    DORMANT=    4035 
+ 
+ 
+ 
+ 
+ 
+STEP:    12500 
+DATE: 1950/01/24 
+TIME: 16:19:00.0 
+ 
+BORN=   11785    ALIVE=    4427    DEAD=    7358    ACTIVE=     452    DORMANT=    3975 
+ 
+ 
+ 
+ 
+ 
+STEP:    12600 
+DATE: 1950/01/24 
+TIME: 17:59:00.0 
+ 
+BORN=   11785    ALIVE=    4389    DEAD=    7397    ACTIVE=     454    DORMANT=    3935 
+ 
+ 
+ 
+ 
+ 
+STEP:    12700 
+DATE: 1950/01/24 
+TIME: 19:39:00.0 
+ 
+BORN=   11785    ALIVE=    4360    DEAD=    7426    ACTIVE=     472    DORMANT=    3888 
+ 
+ 
+ 
+ 
+ 
+STEP:    12800 
+DATE: 1950/01/24 
+TIME: 21:19:00.0 
+ 
+BORN=   11785    ALIVE=    4314    DEAD=    7472    ACTIVE=     475    DORMANT=    3839 
+ 
+ 
+ 
+ 
+ 
+STEP:    12900 
+DATE: 1950/01/24 
+TIME: 22:59:00.0 
+ 
+BORN=   11785    ALIVE=    4274    DEAD=    7511    ACTIVE=     477    DORMANT=    3797 
+ 
+ 
+ 
+ 
+ 
+STEP:    13000 
+DATE: 1950/01/25 
+TIME: 00:39:00.0 
+ 
+BORN=   11785    ALIVE=    4235    DEAD=    7550    ACTIVE=     452    DORMANT=    3783 
+ 
+ 
+ 
+ 
+ 
+STEP:    13100 
+DATE: 1950/01/25 
+TIME: 02:19:00.0 
+ 
+BORN=   11785    ALIVE=    4206    DEAD=    7579    ACTIVE=     491    DORMANT=    3715 
+ 
+ 
+ 
+ 
+ 
+STEP:    13200 
+DATE: 1950/01/25 
+TIME: 03:59:00.0 
+ 
+BORN=   11785    ALIVE=    4155    DEAD=    7631    ACTIVE=     525    DORMANT=    3630 
+ 
+ 
+ 
+ 
+ 
+STEP:    13300 
+DATE: 1950/01/25 
+TIME: 05:39:00.0 
+ 
+BORN=   11785    ALIVE=    4112    DEAD=    7673    ACTIVE=     593    DORMANT=    3519 
+ 
+ 
+ 
+ 
+ 
+STEP:    13400 
+DATE: 1950/01/25 
+TIME: 07:19:00.0 
+ 
+BORN=   11785    ALIVE=    4051    DEAD=    7734    ACTIVE=     592    DORMANT=    3459 
+ 
+ 
+ 
+ 
+ 
+STEP:    13500 
+DATE: 1950/01/25 
+TIME: 08:59:00.0 
+ 
+BORN=   11785    ALIVE=    3983    DEAD=    7802    ACTIVE=     645    DORMANT=    3338 
+ 
+ 
+ 
+ 
+ 
+STEP:    13600 
+DATE: 1950/01/25 
+TIME: 10:39:00.0 
+ 
+BORN=   11785    ALIVE=    3939    DEAD=    7846    ACTIVE=     696    DORMANT=    3243 
+ 
+ 
+ 
+ 
+ 
+STEP:    13700 
+DATE: 1950/01/25 
+TIME: 12:19:00.0 
+ 
+BORN=   11785    ALIVE=    3892    DEAD=    7895    ACTIVE=     718    DORMANT=    3174 
+ 
+ 
+ 
+ 
+ 
+STEP:    13800 
+DATE: 1950/01/25 
+TIME: 13:59:00.0 
+ 
+BORN=   11785    ALIVE=    3839    DEAD=    7946    ACTIVE=     749    DORMANT=    3090 
+ 
+ 
+ 
+ 
+ 
+STEP:    13900 
+DATE: 1950/01/25 
+TIME: 15:39:00.0 
+ 
+BORN=   11785    ALIVE=    3786    DEAD=    7999    ACTIVE=     767    DORMANT=    3019 
+ 
+ 
+ 
+ 
+ 
+STEP:    14000 
+DATE: 1950/01/25 
+TIME: 17:19:00.0 
+ 
+BORN=   11785    ALIVE=    3720    DEAD=    8065    ACTIVE=     747    DORMANT=    2973 
+ 
+ 
+ 
+ 
+ 
+STEP:    14100 
+DATE: 1950/01/25 
+TIME: 18:59:00.0 
+ 
+BORN=   11785    ALIVE=    3654    DEAD=    8131    ACTIVE=     769    DORMANT=    2885 
+ 
+ 
+ 
+ 
+ 
+STEP:    14200 
+DATE: 1950/01/25 
+TIME: 20:39:00.0 
+ 
+BORN=   11785    ALIVE=    3579    DEAD=    8208    ACTIVE=     798    DORMANT=    2781 
+ 
+ 
+ 
+ 
+ 
+STEP:    14300 
+DATE: 1950/01/25 
+TIME: 22:19:00.0 
+ 
+BORN=   11785    ALIVE=    3489    DEAD=    8296    ACTIVE=     765    DORMANT=    2724 
+ 
+ 
+ 
+ 
+ 
+STEP:    14400 
+DATE: 1950/01/25 
+TIME: 23:59:00.0 
+ 
+BORN=   11785    ALIVE=    3419    DEAD=    8366    ACTIVE=     775    DORMANT=    2644 
+ 
+ 
+ 
+ 
+ 
+STEP:    14500 
+DATE: 1950/01/26 
+TIME: 01:39:00.0 
+ 
+BORN=   11785    ALIVE=    3340    DEAD=    8447    ACTIVE=     748    DORMANT=    2592 
+ 
+ 
+ 
+ 
+ 
+STEP:    14600 
+DATE: 1950/01/26 
+TIME: 03:19:00.0 
+ 
+BORN=   11785    ALIVE=    3259    DEAD=    8528    ACTIVE=     727    DORMANT=    2532 
+ 
+ 
+ 
+ 
+ 
+STEP:    14700 
+DATE: 1950/01/26 
+TIME: 04:59:00.0 
+ 
+BORN=   11785    ALIVE=    3191    DEAD=    8594    ACTIVE=     712    DORMANT=    2479 
+ 
+ 
+ 
+ 
+ 
+STEP:    14800 
+DATE: 1950/01/26 
+TIME: 06:39:00.0 
+ 
+BORN=   11785    ALIVE=    3103    DEAD=    8684    ACTIVE=     720    DORMANT=    2383 
+ 
+ 
+ 
+ 
+ 
+STEP:    14900 
+DATE: 1950/01/26 
+TIME: 08:19:00.0 
+ 
+BORN=   11785    ALIVE=    3016    DEAD=    8769    ACTIVE=     709    DORMANT=    2307 
+ 
+ 
+ 
+ 
+ 
+STEP:    15000 
+DATE: 1950/01/26 
+TIME: 09:59:00.0 
+ 
+BORN=   11785    ALIVE=    2934    DEAD=    8852    ACTIVE=     651    DORMANT=    2283 
+ 
+ 
+ 
+ 
+ 
+STEP:    15100 
+DATE: 1950/01/26 
+TIME: 11:39:00.0 
+ 
+BORN=   11785    ALIVE=    2880    DEAD=    8905    ACTIVE=     678    DORMANT=    2202 
+ 
+ 
+ 
+ 
+ 
+STEP:    15200 
+DATE: 1950/01/26 
+TIME: 13:19:00.0 
+ 
+BORN=   11785    ALIVE=    2799    DEAD=    8988    ACTIVE=     637    DORMANT=    2162 
+ 
+ 
+ 
+ 
+ 
+STEP:    15300 
+DATE: 1950/01/26 
+TIME: 14:59:00.0 
+ 
+BORN=   11785    ALIVE=    2711    DEAD=    9074    ACTIVE=     629    DORMANT=    2082 
+ 
+ 
+ 
+ 
+ 
+STEP:    15400 
+DATE: 1950/01/26 
+TIME: 16:39:00.0 
+ 
+BORN=   11785    ALIVE=    2634    DEAD=    9153    ACTIVE=     630    DORMANT=    2004 
+ 
+ 
+ 
+ 
+ 
+STEP:    15500 
+DATE: 1950/01/26 
+TIME: 18:19:00.0 
+ 
+BORN=   11785    ALIVE=    2554    DEAD=    9232    ACTIVE=     612    DORMANT=    1942 
+ 
+ 
+ 
+ 
+ 
+STEP:    15600 
+DATE: 1950/01/26 
+TIME: 19:59:00.0 
+ 
+BORN=   11785    ALIVE=    2470    DEAD=    9316    ACTIVE=     586    DORMANT=    1884 
+ 
+ 
+ 
+ 
+ 
+STEP:    15700 
+DATE: 1950/01/26 
+TIME: 21:39:00.0 
+ 
+BORN=   11785    ALIVE=    2404    DEAD=    9382    ACTIVE=     598    DORMANT=    1806 
+ 
+ 
+ 
+ 
+ 
+STEP:    15800 
+DATE: 1950/01/26 
+TIME: 23:19:00.0 
+ 
+BORN=   11785    ALIVE=    2324    DEAD=    9461    ACTIVE=     565    DORMANT=    1759 
+ 
+ 
+ 
+ 
+ 
+STEP:    15900 
+DATE: 1950/01/27 
+TIME: 00:59:00.0 
+ 
+BORN=   11785    ALIVE=    2268    DEAD=    9518    ACTIVE=     582    DORMANT=    1686 
+ 
+ 
+ 
+ 
+ 
+STEP:    16000 
+DATE: 1950/01/27 
+TIME: 02:39:00.0 
+ 
+BORN=   11785    ALIVE=    2179    DEAD=    9607    ACTIVE=     550    DORMANT=    1629 
+ 
+ 
+ 
+ 
+ 
+STEP:    16100 
+DATE: 1950/01/27 
+TIME: 04:19:00.0 
+ 
+BORN=   11785    ALIVE=    2117    DEAD=    9668    ACTIVE=     540    DORMANT=    1577 
+ 
+ 
+ 
+ 
+ 
+STEP:    16200 
+DATE: 1950/01/27 
+TIME: 05:59:00.0 
+ 
+BORN=   11785    ALIVE=    2059    DEAD=    9728    ACTIVE=     523    DORMANT=    1536 
+ 
+ 
+ 
+ 
+ 
+STEP:    16300 
+DATE: 1950/01/27 
+TIME: 07:39:00.0 
+ 
+BORN=   11785    ALIVE=    1995    DEAD=    9790    ACTIVE=     504    DORMANT=    1491 
+ 
+ 
+ 
+ 
+ 
+STEP:    16400 
+DATE: 1950/01/27 
+TIME: 09:19:00.0 
+ 
+BORN=   11785    ALIVE=    1915    DEAD=    9871    ACTIVE=     482    DORMANT=    1433 
+ 
+ 
+ 
+ 
+ 
+STEP:    16500 
+DATE: 1950/01/27 
+TIME: 10:59:00.0 
+ 
+BORN=   11785    ALIVE=    1846    DEAD=    9940    ACTIVE=     434    DORMANT=    1412 
+ 
+ 
+ 
+ 
+ 
+STEP:    16600 
+DATE: 1950/01/27 
+TIME: 12:39:00.0 
+ 
+BORN=   11785    ALIVE=    1785    DEAD=   10000    ACTIVE=     422    DORMANT=    1363 
+ 
+ 
+ 
+ 
+ 
+STEP:    16700 
+DATE: 1950/01/27 
+TIME: 14:19:00.0 
+ 
+BORN=   11785    ALIVE=    1723    DEAD=   10066    ACTIVE=     408    DORMANT=    1315 
+ 
+ 
+ 
+ 
+ 
+STEP:    16800 
+DATE: 1950/01/27 
+TIME: 15:59:00.0 
+ 
+BORN=   11785    ALIVE=    1669    DEAD=   10116    ACTIVE=     404    DORMANT=    1265 
+ 
+ 
+ 
+ 
+ 
+STEP:    16900 
+DATE: 1950/01/27 
+TIME: 17:39:00.0 
+ 
+BORN=   11785    ALIVE=    1612    DEAD=   10175    ACTIVE=     384    DORMANT=    1228 
+ 
+ 
+ 
+ 
+ 
+STEP:    17000 
+DATE: 1950/01/27 
+TIME: 19:19:00.0 
+ 
+BORN=   11785    ALIVE=    1556    DEAD=   10230    ACTIVE=     372    DORMANT=    1184 
+ 
+ 
+ 
+ 
+ 
+STEP:    17100 
+DATE: 1950/01/27 
+TIME: 20:59:00.0 
+ 
+BORN=   11785    ALIVE=    1509    DEAD=   10277    ACTIVE=     367    DORMANT=    1142 
+ 
+ 
+ 
+ 
+ 
+STEP:    17200 
+DATE: 1950/01/27 
+TIME: 22:39:00.0 
+ 
+BORN=   11785    ALIVE=    1455    DEAD=   10330    ACTIVE=     348    DORMANT=    1107 
+ 
+ 
+ 
+ 
+ 
+STEP:    17300 
+DATE: 1950/01/28 
+TIME: 00:19:00.0 
+ 
+BORN=   11785    ALIVE=    1399    DEAD=   10386    ACTIVE=     328    DORMANT=    1071 
+ 
+ 
+ 
+ 
+ 
+STEP:    17400 
+DATE: 1950/01/28 
+TIME: 01:59:00.0 
+ 
+BORN=   11785    ALIVE=    1354    DEAD=   10431    ACTIVE=     298    DORMANT=    1056 
+ 
+ 
+ 
+ 
+ 
+STEP:    17500 
+DATE: 1950/01/28 
+TIME: 03:39:00.0 
+ 
+BORN=   11785    ALIVE=    1316    DEAD=   10469    ACTIVE=     263    DORMANT=    1053 
+ 
+ 
+ 
+ 
+ 
+STEP:    17600 
+DATE: 1950/01/28 
+TIME: 05:19:00.0 
+ 
+BORN=   11785    ALIVE=    1276    DEAD=   10509    ACTIVE=     252    DORMANT=    1024 
+ 
+ 
+ 
+ 
+ 
+STEP:    17700 
+DATE: 1950/01/28 
+TIME: 06:59:00.0 
+ 
+BORN=   11785    ALIVE=    1226    DEAD=   10562    ACTIVE=     234    DORMANT=     992 
+ 
+ 
+ 
+ 
+ 
+STEP:    17800 
+DATE: 1950/01/28 
+TIME: 08:39:00.0 
+ 
+BORN=   11785    ALIVE=    1204    DEAD=   10581    ACTIVE=     216    DORMANT=     988 
+ 
+ 
+ 
+ 
+ 
+STEP:    17900 
+DATE: 1950/01/28 
+TIME: 10:19:00.0 
+ 
+BORN=   11785    ALIVE=    1165    DEAD=   10621    ACTIVE=     200    DORMANT=     965 
+ 
+ 
+ 
+ 
+ 
+STEP:    18000 
+DATE: 1950/01/28 
+TIME: 11:59:00.0 
+ 
+BORN=   11785    ALIVE=    1128    DEAD=   10657    ACTIVE=     176    DORMANT=     952 
+ 
+ 
+ 
+ 
+ 
+STEP:    18100 
+DATE: 1950/01/28 
+TIME: 13:39:00.0 
+ 
+BORN=   11785    ALIVE=    1103    DEAD=   10682    ACTIVE=     180    DORMANT=     923 
+ 
+ 
+ 
+ 
+ 
+STEP:    18200 
+DATE: 1950/01/28 
+TIME: 15:19:00.0 
+ 
+BORN=   11785    ALIVE=    1066    DEAD=   10719    ACTIVE=     155    DORMANT=     911 
+ 
+ 
+ 
+ 
+ 
+STEP:    18300 
+DATE: 1950/01/28 
+TIME: 16:59:00.0 
+ 
+BORN=   11785    ALIVE=    1040    DEAD=   10745    ACTIVE=     149    DORMANT=     891 
+ 
+ 
+ 
+ 
+ 
+STEP:    18400 
+DATE: 1950/01/28 
+TIME: 18:39:00.0 
+ 
+BORN=   11785    ALIVE=    1016    DEAD=   10769    ACTIVE=     161    DORMANT=     855 
+ 
+ 
+ 
+ 
+ 
+STEP:    18500 
+DATE: 1950/01/28 
+TIME: 20:19:00.0 
+ 
+BORN=   11785    ALIVE=     996    DEAD=   10789    ACTIVE=     151    DORMANT=     845 
+ 
+ 
+ 
+ 
+ 
+STEP:    18600 
+DATE: 1950/01/28 
+TIME: 21:59:00.0 
+ 
+BORN=   11785    ALIVE=     974    DEAD=   10811    ACTIVE=     125    DORMANT=     849 
+ 
+ 
+ 
+ 
+ 
+STEP:    18700 
+DATE: 1950/01/28 
+TIME: 23:39:00.0 
+ 
+BORN=   11785    ALIVE=     962    DEAD=   10823    ACTIVE=     119    DORMANT=     843 
+ 
+ 
+ 
+ 
+ 
+STEP:    18800 
+DATE: 1950/01/29 
+TIME: 01:19:00.0 
+ 
+BORN=   11785    ALIVE=     941    DEAD=   10844    ACTIVE=     121    DORMANT=     820 
+ 
+ 
+ 
+ 
+ 
+STEP:    18900 
+DATE: 1950/01/29 
+TIME: 02:59:00.0 
+ 
+BORN=   11785    ALIVE=     922    DEAD=   10864    ACTIVE=     110    DORMANT=     812 
+ 
+ 
+ 
+ 
+ 
+STEP:    19000 
+DATE: 1950/01/29 
+TIME: 04:39:00.0 
+ 
+BORN=   11785    ALIVE=     906    DEAD=   10879    ACTIVE=     101    DORMANT=     805 
+ 
+ 
+ 
+ 
+ 
+STEP:    19100 
+DATE: 1950/01/29 
+TIME: 06:19:00.0 
+ 
+BORN=   11785    ALIVE=     891    DEAD=   10894    ACTIVE=      80    DORMANT=     811 
+ 
+ 
+ 
+ 
+ 
+STEP:    19200 
+DATE: 1950/01/29 
+TIME: 07:59:00.0 
+ 
+BORN=   11785    ALIVE=     880    DEAD=   10905    ACTIVE=      62    DORMANT=     818 
+ 
+ 
+ 
+ 
+ 
+STEP:    19300 
+DATE: 1950/01/29 
+TIME: 09:39:00.0 
+ 
+BORN=   11785    ALIVE=     870    DEAD=   10915    ACTIVE=      68    DORMANT=     802 
+ 
+ 
+ 
+ 
+ 
+STEP:    19400 
+DATE: 1950/01/29 
+TIME: 11:19:00.0 
+ 
+BORN=   11785    ALIVE=     854    DEAD=   10931    ACTIVE=      49    DORMANT=     805 
+ 
+ 
+ 
+ 
+ 
+STEP:    19500 
+DATE: 1950/01/29 
+TIME: 12:59:00.0 
+ 
+BORN=   11785    ALIVE=     843    DEAD=   10942    ACTIVE=      42    DORMANT=     801 
+ 
+ 
+ 
+ 
+ 
+STEP:    19600 
+DATE: 1950/01/29 
+TIME: 14:39:00.0 
+ 
+BORN=   11785    ALIVE=     837    DEAD=   10948    ACTIVE=      35    DORMANT=     802 
+ 
+ 
+ 
+ 
+ 
+STEP:    19700 
+DATE: 1950/01/29 
+TIME: 16:19:00.0 
+ 
+BORN=   11785    ALIVE=     832    DEAD=   10953    ACTIVE=      29    DORMANT=     803 
+ 
+ 
+ 
+ 
+ 
+STEP:    19800 
+DATE: 1950/01/29 
+TIME: 17:59:00.0 
+ 
+BORN=   11785    ALIVE=     826    DEAD=   10959    ACTIVE=      27    DORMANT=     799 
+ 
+ 
+ 
+ 
+ 
+STEP:    19900 
+DATE: 1950/01/29 
+TIME: 19:39:00.0 
+ 
+BORN=   11785    ALIVE=     822    DEAD=   10963    ACTIVE=      23    DORMANT=     799 
+ 
+ 
+ 
+ 
+ 
+STEP:    20000 
+DATE: 1950/01/29 
+TIME: 21:19:00.0 
+ 
+BORN=   11785    ALIVE=     819    DEAD=   10966    ACTIVE=      22    DORMANT=     797 
+ 
+ 
+ 
+ 
+ 
+STEP:    20100 
+DATE: 1950/01/29 
+TIME: 22:59:00.0 
+ 
+BORN=   11785    ALIVE=     816    DEAD=   10969    ACTIVE=      13    DORMANT=     803 
+ 
+ 
+ 
+ 
+ 
+STEP:    20200 
+DATE: 1950/01/30 
+TIME: 00:39:00.0 
+ 
+BORN=   11785    ALIVE=     814    DEAD=   10971    ACTIVE=      15    DORMANT=     799 
+ 
+ 
+ 
+ 
+ 
+STEP:    20300 
+DATE: 1950/01/30 
+TIME: 02:19:00.0 
+ 
+BORN=   11785    ALIVE=     813    DEAD=   10972    ACTIVE=      11    DORMANT=     802 
+ 
+ 
+ 
+ 
+ 
+STEP:    20400 
+DATE: 1950/01/30 
+TIME: 03:59:00.0 
+ 
+BORN=   11785    ALIVE=     813    DEAD=   10972    ACTIVE=      14    DORMANT=     799 
+ 
+ 
+ 
+ 
+ 
+STEP:    20500 
+DATE: 1950/01/30 
+TIME: 05:39:00.0 
+ 
+BORN=   11785    ALIVE=     812    DEAD=   10973    ACTIVE=       9    DORMANT=     803 
+ 
+ 
+ 
+ 
+ 
+STEP:    20600 
+DATE: 1950/01/30 
+TIME: 07:19:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       8    DORMANT=     802 
+ 
+ 
+ 
+ 
+ 
+STEP:    20700 
+DATE: 1950/01/30 
+TIME: 08:59:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       6    DORMANT=     804 
+ 
+ 
+ 
+ 
+ 
+STEP:    20800 
+DATE: 1950/01/30 
+TIME: 10:39:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       3    DORMANT=     807 
+ 
+ 
+ 
+ 
+ 
+STEP:    20900 
+DATE: 1950/01/30 
+TIME: 12:19:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       7    DORMANT=     803 
+ 
+ 
+ 
+ 
+ 
+STEP:    21000 
+DATE: 1950/01/30 
+TIME: 13:59:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       4    DORMANT=     806 
+ 
+ 
+ 
+ 
+ 
+STEP:    21100 
+DATE: 1950/01/30 
+TIME: 15:39:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       4    DORMANT=     806 
+ 
+ 
+ 
+ 
+ 
+STEP:    21200 
+DATE: 1950/01/30 
+TIME: 17:19:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       3    DORMANT=     807 
+ 
+ 
+ 
+ 
+ 
+STEP:    21300 
+DATE: 1950/01/30 
+TIME: 18:59:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       4    DORMANT=     806 
+ 
+ 
+ 
+ 
+ 
+STEP:    21400 
+DATE: 1950/01/30 
+TIME: 20:39:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       4    DORMANT=     806 
+ 
+ 
+ 
+ 
+ 
+STEP:    21500 
+DATE: 1950/01/30 
+TIME: 22:19:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       4    DORMANT=     806 
+ 
+ 
+ 
+ 
+ 
+STEP:    21600 
+DATE: 1950/01/30 
+TIME: 23:59:00.0 
+ 
+BORN=   11785    ALIVE=     810    DEAD=   10975    ACTIVE=       1    DORMANT=     809 
+ 
+ 
+ 
+ 
+ 
+Run stop:  2024/11/21  12:53:01 

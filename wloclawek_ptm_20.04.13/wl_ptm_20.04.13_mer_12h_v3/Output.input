@@ -1,0 +1,88 @@
+PTM Simulation:
+  Version:       2.3 Build 005 (13/Nov/2020)
+  Username:      magda                                                           
+  PCF file:      wl_ptm_20.04.13_mer_12h_v3__PartSet.pcf
+  Run start:     2023/04/27 @ 10:04:03
+
+Input Files
+  Mesh:          mesh.14  [adcirc]
+  Sediments:     native.sediments  [adcirc]
+  Neighbors:     neighbor.neighbors
+  WSE:           flow.h5  [xmdf]
+  Flows:         flow.h5  [xmdf]
+  Source:        source.source
+
+Output Files
+  XMDF (p):      Output_parcels.h5
+    ID?:         T
+    Source?:     F
+    Grain size?: T
+    Density?:    F
+    Parcelmass?: F
+    Mobility?:   F
+    Elevation?:  T
+    Height?:     F
+    State?:      T
+    Fall vel.?:  T
+    Tau_cr?:     F
+    Flow?:       T
+
+Flow Start:      1950/01/01 @ 00:00:00.000 (             0.0 sec)
+Start Time:      1950/01/01 @ 00:00:00.000 (             0.0 sec)
+Stop Time:       1950/01/07 @ 00:00:00.000 (        518400.0 sec)
+Duration:          518400.0 sec
+
+Dmin:           0.010 m
+DT:            300.00 sec
+
+Ket:          0.25000
+Kev:          0.00859
+Et (min):     0.00000
+Ev (min):     0.00000
+
+RHOs:          2650.0 kg/m^3
+Porosity:        0.40
+
+Output inc.:      12
+Mapping inc.:   1000
+
+Qs effic.       1.000
+Hiding-exposure?:  T
+Turbulent shear?:  T
+Bed interaction?:  T
+
+CENTROID_METHOD:  rouse                           
+ADVECTION_METHOD: 3d 
+EULERIAN_METHOD:  pie                             
+VELOCITY_METHOD:  2d (log)                        
+Numerical scheme: 2
+Mesh update:         30
+Flow update:          1
+
+Dist. by weight:  F
+Source to datum:  F
+
+XMDF comp.   :  -1
+XMDF path (z):  Datasets/wse                                                                                                                                                                                                                                                    
+XMDF path (u):  Datasets/Overland Velocity                                                                                                                                                                                                                                      
+
+------------------------------------------------------------
+
+Input Mesh
+  Elements:    19828
+  Nodes:       10553
+
+Sources
+  Instants:        0
+  Points:          3
+  Lines:           0
+  Areas:           0
+
+Number of particles:       126800
+Number of steps:             1728
+
+Map output @        1 [1950/01/01  00:00:00.000]
+Map output @     1001 [1950/01/04  11:20:00.000]
+
+Run stop:      2023/04/27 @ 10:07:54
+
