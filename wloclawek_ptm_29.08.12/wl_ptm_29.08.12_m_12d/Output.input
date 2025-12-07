@@ -1,0 +1,165 @@
+PTM Simulation:
+  Version:       2.3 Build 005 (13/Nov/2020)
+  Username:      magda                                                           
+  PCF file:      wl_ptm_29.08.12_me_12d__PartSet.pcf
+  Run start:     2023/04/26 @ 23:04:55
+
+Input Files
+  Mesh:          mesh.14  [adcirc]
+  Sediments:     native.sediments  [adcirc]
+  Neighbors:     neighbor.neighbors
+  WSE:           flow.h5  [xmdf]
+  Flows:         flow.h5  [xmdf]
+  Source:        sedi.source
+
+Output Files
+  XMDF (p):      Output_parcels.h5
+    ID?:         T
+    Source?:     F
+    Grain size?: T
+    Density?:    F
+    Parcelmass?: F
+    Mobility?:   F
+    Elevation?:  T
+    Height?:     T
+    State?:      T
+    Fall vel.?:  F
+    Tau_cr?:     F
+    Flow?:       F
+
+Flow Start: [from input hydro. file]
+Start Time:      1950/01/01 @ 01:00:00.000 (          3600.0 sec)
+Stop Time:       1950/01/14 @ 01:00:00.000 (       1126800.0 sec)
+Duration:         1123200.0 sec
+
+Dmin:           0.010 m
+DT:             25.00 sec
+
+Ket:          0.25000
+Kev:          0.00859
+Et (min):     0.00000
+Ev (min):     0.00000
+
+RHOs:          2650.0 kg/m^3
+Porosity:        0.40
+
+Output inc.:     144
+Mapping inc.:    576
+
+Qs effic.       1.000
+Hiding-exposure?:  T
+Turbulent shear?:  T
+Bed interaction?:  T
+
+CENTROID_METHOD:  rouse                           
+ADVECTION_METHOD: 3d 
+EULERIAN_METHOD:  pie                             
+VELOCITY_METHOD:  2d (log)                        
+Numerical scheme: 2
+Mesh update:         30
+Flow update:          1
+
+Dist. by weight:  F
+Source to datum:  F
+
+XMDF comp.   :  -1
+XMDF path (z):  Datasets/wse                                                                                                                                                                                                                                                    
+XMDF path (u):  Datasets/Overland Velocity                                                                                                                                                                                                                                      
+
+------------------------------------------------------------
+
+Input Mesh
+  Elements:    19828
+  Nodes:       10553
+
+Sources
+  Instants:        0
+  Points:          3
+  Lines:           0
+  Areas:           0
+
+Number of particles:        19776
+Number of steps:            44928
+
+Map output @        1 [1950/01/01  01:00:00.000]
+Map output @      577 [1950/01/01  05:00:00.000]
+Map output @     1153 [1950/01/01  09:00:00.000]
+Map output @     1729 [1950/01/01  13:00:00.000]
+Map output @     2305 [1950/01/01  17:00:00.000]
+Map output @     2881 [1950/01/01  21:00:00.000]
+Map output @     3457 [1950/01/02  01:00:00.000]
+Map output @     4033 [1950/01/02  05:00:00.000]
+Map output @     4609 [1950/01/02  09:00:00.000]
+Map output @     5185 [1950/01/02  13:00:00.000]
+Map output @     5761 [1950/01/02  17:00:00.000]
+Map output @     6337 [1950/01/02  21:00:00.000]
+Map output @     6913 [1950/01/03  01:00:00.000]
+Map output @     7489 [1950/01/03  05:00:00.000]
+Map output @     8065 [1950/01/03  09:00:00.000]
+Map output @     8641 [1950/01/03  13:00:00.000]
+Map output @     9217 [1950/01/03  17:00:00.000]
+Map output @     9793 [1950/01/03  21:00:00.000]
+Map output @    10369 [1950/01/04  01:00:00.000]
+Map output @    10945 [1950/01/04  05:00:00.000]
+Map output @    11521 [1950/01/04  09:00:00.000]
+Map output @    12097 [1950/01/04  13:00:00.000]
+Map output @    12673 [1950/01/04  17:00:00.000]
+Map output @    13249 [1950/01/04  21:00:00.000]
+Map output @    13825 [1950/01/05  01:00:00.000]
+Map output @    14401 [1950/01/05  05:00:00.000]
+Map output @    14977 [1950/01/05  09:00:00.000]
+Map output @    15553 [1950/01/05  13:00:00.000]
+Map output @    16129 [1950/01/05  17:00:00.000]
+Map output @    16705 [1950/01/05  21:00:00.000]
+Map output @    17281 [1950/01/06  01:00:00.000]
+Map output @    17857 [1950/01/06  05:00:00.000]
+Map output @    18433 [1950/01/06  09:00:00.000]
+Map output @    19009 [1950/01/06  13:00:00.000]
+Map output @    19585 [1950/01/06  17:00:00.000]
+Map output @    20161 [1950/01/06  21:00:00.000]
+Map output @    20737 [1950/01/07  01:00:00.000]
+Map output @    21313 [1950/01/07  05:00:00.000]
+Map output @    21889 [1950/01/07  09:00:00.000]
+Map output @    22465 [1950/01/07  13:00:00.000]
+Map output @    23041 [1950/01/07  17:00:00.000]
+Map output @    23617 [1950/01/07  21:00:00.000]
+Map output @    24193 [1950/01/08  01:00:00.000]
+Map output @    24769 [1950/01/08  05:00:00.000]
+Map output @    25345 [1950/01/08  09:00:00.000]
+Map output @    25921 [1950/01/08  13:00:00.000]
+Map output @    26497 [1950/01/08  17:00:00.000]
+Map output @    27073 [1950/01/08  21:00:00.000]
+Map output @    27649 [1950/01/09  01:00:00.000]
+Map output @    28225 [1950/01/09  05:00:00.000]
+Map output @    28801 [1950/01/09  09:00:00.000]
+Map output @    29377 [1950/01/09  13:00:00.000]
+Map output @    29953 [1950/01/09  17:00:00.000]
+Map output @    30529 [1950/01/09  21:00:00.000]
+Map output @    31105 [1950/01/10  01:00:00.000]
+Map output @    31681 [1950/01/10  05:00:00.000]
+Map output @    32257 [1950/01/10  09:00:00.000]
+Map output @    32833 [1950/01/10  13:00:00.000]
+Map output @    33409 [1950/01/10  17:00:00.000]
+Map output @    33985 [1950/01/10  21:00:00.000]
+Map output @    34561 [1950/01/11  01:00:00.000]
+Map output @    35137 [1950/01/11  05:00:00.000]
+Map output @    35713 [1950/01/11  09:00:00.000]
+Map output @    36289 [1950/01/11  13:00:00.000]
+Map output @    36865 [1950/01/11  17:00:00.000]
+Map output @    37441 [1950/01/11  21:00:00.000]
+Map output @    38017 [1950/01/12  01:00:00.000]
+Map output @    38593 [1950/01/12  05:00:00.000]
+Map output @    39169 [1950/01/12  09:00:00.000]
+Map output @    39745 [1950/01/12  13:00:00.000]
+Map output @    40321 [1950/01/12  17:00:00.000]
+Map output @    40897 [1950/01/12  21:00:00.000]
+Map output @    41473 [1950/01/13  01:00:00.000]
+Map output @    42049 [1950/01/13  05:00:00.000]
+Map output @    42625 [1950/01/13  09:00:00.000]
+Map output @    43201 [1950/01/13  13:00:00.000]
+Map output @    43777 [1950/01/13  17:00:00.000]
+Map output @    44353 [1950/01/13  21:00:00.000]
+Map output @    44929 [1950/01/14  01:00:00.000]
+
+Run stop:      2023/04/26 @ 23:20:32
+
